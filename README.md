@@ -1,10 +1,11 @@
 
-
 # Deep Learning Mindmap
 
 
-![Deep Learning Mindmap](Deep Learning Mindmap.png)
+![Deep Learning Mindmap](Deep%20Learning%20Mindmap.png)
 
 
-Written by [Freemind](http://freemind.sourceforge.net/)
+> Note
+>
+> Written by [Freemind](http://freemind.sourceforge.net/)
 
